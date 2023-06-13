@@ -3,5 +3,5 @@
 \
 \
 Papers\
-*When Counting Meets HMER:Counting-Aware Network for Handwritten Mathematical Expression Recognition[[paper]](https://arxiv.org/abs/2207.11463)
+*When Counting Meets HMER:Counting-Aware Network for Handwritten Mathematical Expression Recognition[[paper]](https://arxiv.org/abs/2207.11463)\
 *CoMER: Modeling Coverage forTransformer-based Handwritten MathematicalExpression Recognition[[paper]](https://arxiv.org/abs/2207.04410)
