@@ -3,4 +3,4 @@
 \
 \
 Papers\
-*[When Counting Meets HMER:Counting-Aware Network for Handwritten Mathematical Expression Recognition](https://arxiv.org/abs/2207.11463)
+*When Counting Meets HMER:Counting-Aware Network for Handwritten Mathematical Expression Recognition[paper](https://arxiv.org/abs/2207.11463)
