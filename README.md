@@ -5,6 +5,8 @@
 
 *blog:[论文阅读和分析]When Counting Meets HMER Counting-Aware Network for HMER[[blog]](https://blog.csdn.net/kper_yang/article/details/129351525)
 
+*my own learning note of CAN[[learning note]](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FHryxyhe%2FA-learning-log-about-Handwritten-Mathematical-Expression-Recognition%2Fmaster%2Fmy%2520learning%2520note%2FCAN.docx&wdOrigin=BROWSELINK)
+
 *conception：【Channel Attention & spatial attention、GRU、position encoding、 coverage attention】 can be found from above learning note. 
 
 ## paper2
