@@ -12,3 +12,10 @@
 ## paper2
 *CoMER: Modeling Coverage forTransformer-based Handwritten MathematicalExpression Recognition[[paper]](https://arxiv.org/abs/2207.04410)\
 *blog:[ECCV 2022 CoMER] 基于Transformer与覆盖注意力机制建模的手写数学公式识别[[blog]](https://blog.csdn.net/moxibingdao/article/details/127644505)
+
+## paper3
+*Watch, attend and parse: An end-to-end neural network based approach to handwritten mathematical expression recognition[[paper]](https://www.sciencedirect.com/science/article/pii/S0031320317302376)
+
+*blog:
+
+some peceptions [[FCN]](https://zhuanlan.zhihu.com/p/30195134)
