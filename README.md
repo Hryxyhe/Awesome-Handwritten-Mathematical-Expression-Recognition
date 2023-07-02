@@ -18,4 +18,4 @@
 
 *blog:
 
-some peceptions [[FCN]](https://zhuanlan.zhihu.com/p/30195134)
+some peceptions [[FCN]](https://zhuanlan.zhihu.com/p/30195134)  [upsampling]](https://blog.csdn.net/qq_37344125/article/details/108717647)
