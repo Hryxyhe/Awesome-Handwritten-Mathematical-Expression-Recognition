@@ -18,4 +18,4 @@
 
 *blog:论文阅读和分析：Watch, attend and parse An end-to-end neural network based approach to HMER[[blog]](https://blog.csdn.net/KPer_Yang/article/details/129483137)
 
-some peceptions [[FCN]](https://zhuanlan.zhihu.com/p/30195134)  [[upsampling]](https://blog.csdn.net/qq_37344125/article/details/108717647)
+*some peceptions [[FCN]](https://zhuanlan.zhihu.com/p/30195134)  [[upsampling]](https://blog.csdn.net/qq_37344125/article/details/108717647)
