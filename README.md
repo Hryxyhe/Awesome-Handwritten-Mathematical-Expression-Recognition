@@ -7,7 +7,8 @@
 
 *my own learning note of CAN[[learning note]](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FHryxyhe%2FA-learning-log-about-Handwritten-Mathematical-Expression-Recognition%2Fmaster%2Fmy%2520learning%2520note%2FCAN.docx&wdOrigin=BROWSELINK)
 
-*conceptions : [[Channel Attention & spatial attention]](https://blog.csdn.net/qq_42194397/article/details/122556066?spm=1001.2101.3001.6650.18&utm_medium=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromBaidu~Rate-18-122556066-blog-120884524.235%5Ev38%5Epc_relevant_anti_vip_base&depth_1-utm_source=dis) [[GRU]](https://zhuanlan.zhihu.com/p/32481747) [[position encoding]](https://zhuanlan.zhihu.com/p/121126531) [[product]](https://blog.csdn.net/oldlybaby/article/details/108307712) 
+*conceptions : [[Channel Attention & spatial attention]](https://blog.csdn.net/qq_42194397/article/details/122556066?spm=1001.2101.3001.6650.18&utm_medium=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromBaidu~Rate-18-122556066-blog-120884524.235%5Ev38%5Epc_relevant_anti_vip_base&depth_1-utm_source=dis) [[GRU]](https://zhuanlan.zhihu.com/p/32481747) 
+[[position encoding]](https://zhuanlan.zhihu.com/p/121126531) [[product]](https://blog.csdn.net/oldlybaby/article/details/108307712) 
 
 ## paper2 CoMER
 *《CoMER: Modeling Coverage for Transformer-based Handwritten MathematicalExpression Recognition》[[paper]](https://arxiv.org/abs/2207.04410)\
