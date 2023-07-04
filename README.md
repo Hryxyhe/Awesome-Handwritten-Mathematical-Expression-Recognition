@@ -24,4 +24,6 @@
 ## paper3 WAP-TD
 *《A Tree-Structured Decoder for Image-to-Markup Generation》[[paper]](http://staff.ustc.edu.cn/~jundu/Publications/publications/jianshu-icml2020.pdf)
 
+*blog:论文阅读和分析-A Tree-Structured Decoder for Image-to-Markup Generation[[blog]](https://blog.csdn.net/KPer_Yang/article/details/129461513)
+
 *my own learning note of CAN[[learning note]]
