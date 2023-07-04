@@ -21,9 +21,13 @@
 
 *some conceptions [[FCN]](https://zhuanlan.zhihu.com/p/30195134)  [[upsampling]](https://blog.csdn.net/qq_37344125/article/details/108717647) [[weight noise]](https://blog.csdn.net/Marslicy/article/details/124311818?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522168837172516800184198252%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=168837172516800184198252&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-124311818-null-null.142^v88^control_2,239^v2^insert_chatgpt&utm_term=%E6%9D%83%E9%87%8D%E5%99%AA%E5%A3%B0&spm=1018.2226.3001.4187)
 
-## paper3 WAP-TD
+## paper4 WAP-TD
 *《A Tree-Structured Decoder for Image-to-Markup Generation》[[paper]](http://staff.ustc.edu.cn/~jundu/Publications/publications/jianshu-icml2020.pdf)
 
 *blog:论文阅读和分析-A Tree-Structured Decoder for Image-to-Markup Generation[[blog]](https://blog.csdn.net/KPer_Yang/article/details/129461513)
 
 *my own learning note of CAN[[learning note]]
+
+## paper5 DWAP
+*《Multi-Scale Attention with Dense Encoder for Handwritten Mathematical Expression Recognition》[[paper]](https://ieeexplore.ieee.org/document/8546031)
+
