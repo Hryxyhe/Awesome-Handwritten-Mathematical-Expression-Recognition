@@ -31,6 +31,6 @@
 ## paper5 DWAP
 *《Multi-Scale Attention with Dense Encoder for Handwritten Mathematical Expression Recognition》[[paper]](https://ieeexplore.ieee.org/document/8546031)
 
-*contributions:1.encoder:densenet  2. present a novel multi-scale attention model
+*contributions:①encoder:densenet      ②present a novel multi-scale attention model
 
 *conceptions [[Densenet]](https://zhuanlan.zhihu.com/p/37189203)
