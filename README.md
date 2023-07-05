@@ -35,5 +35,5 @@
 
 *conceptions [[Densenet]](https://zhuanlan.zhihu.com/p/37189203)
 
-##paper6 
+## paper6 
 *《Improving Attention-Based Handwritten Mathematical Expression Recognition with Scale Augmentation and Drop Attention》[[paper]](https://ieeexplore.ieee.org/abstract/document/9257765)
