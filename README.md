@@ -49,6 +49,7 @@ A-learning-log-about-Handwritten-Mathematical-Expression-Recognition
 ## IEEE:
 * [TAP 2018]Track, Attend, and Parse (TAP): An End-to-End Framework for Online Handwritten Mathematical Expression Recognition[[paper]](https://ieeexplore.ieee.org/document/8373726)
 * [SRD 2020]SRD: A Tree Structure Based Decoder for Online Handwritten Mathematical Expression Recognition[[paper]](https://ieeexplore.ieee.org/document/9147045)
+* [2020]Stroke extraction for offline handwritten mathematical expression recognition[[paper]](https://arxiv.org/abs/1905.06749)
 
 ## Lecture Notes in Computer Science:
 * [2021]An Encoder-Decoder Approach to Handwritten Mathematical Expression Recognition with Multi-head Attention and Stacked Decoder[[paper]](https://link.springer.com/content/pdf/10.1007/978-3-030-86331-9_39.pdf)
