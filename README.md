@@ -9,7 +9,7 @@ A-learning-log-about-Handwritten-Mathematical-Expression-Recognition
 * [2023]Spatial Attention and Syntax Rule Enhanced Tree Decoder for Offine Handwritten Mathematical Expression Recognition[[paper]](https://arxiv.org/abs/2303.07077)
 * [2022]Offline Handwritten Mathematical Recognition using Adversarial Learning and Transformers[[paper]](https://arxiv.org/abs/2208.09662)
 * [2021]Global Context for improving recognition of Online Handwritten Mathematical Expressions[[paper]](https://arxiv.org/abs/2105.10156)
-* [2020]Recognizing Handwritten Mathematical Expressions as LaTex Sequences Using a Multiscale Robust Neural Network[[paper]](Recognizing Handwritten Mathematical Expressions as LaTex Sequences Using a Multiscale Robust Neural Network)
+* [2020]Recognizing Handwritten Mathematical Expressions as LaTex Sequences Using a Multiscale Robust Neural Network[[paper]](https://arxiv.org/abs/2003.00817)
 * [2019]Offline handwritten mathematical symbol recognition utilising deep learning[[paper]](https://arxiv.org/abs/1910.07395)
 
 ## CVPR:
