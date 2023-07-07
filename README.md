@@ -44,13 +44,43 @@
 # Papers
 ## arXiv:
 * [WYGIWYS 2016]What you get is what you  see: A visual markup decompiler[[paper]](https://arxiv.org/abs/1609.04938v1)
+* [BTTR 2021]Handwritten mathematical expression recognition with bidirectionally trained transformer[[paper]](https://arxiv.org/abs/2105.02412)
+
+## CVPR:
+* [SAN 2022] Syntax-aware network for handwritten mathematical expression recognition[[paper]](https://ieeexplore.ieee.org/document/9879653)
 
 ## ECCV:
 * [CAN 2022]When Counting Meets HMER: CountingAware Network for Handwritten Mathematical Expression Recognition[[paper]](https://arxiv.org/abs/2207.11463)
 * [CoMER 2022]CoMER: Modeling Coverage for Transformer-based Handwritten Mathematical Expression Recognition[[paper]](https://arxiv.org/abs/2207.04410#:~:text=CoMER%3A%20Modeling%20Coverage%20for%20Transformer-based%20Handwritten%20Mathematical%20Expression,made%20significant%20advances%20in%20recognizing%20handwritten%20mathematical%20expressions.)
+
 ## ICPR:
 * [DWAP 2018]An end-to-end  neural network based approach to handwritten mathematical expression recognition[[paper]](https://ieeexplore.ieee.org/document/8546031)
+
+## ICML:
+* [DWAP-TD 2020]A Tree-Structured Decoder for Image-to-Markup Generation[[paper]](http://staff.ustc.edu.cn/~jundu/Publications/publications/jianshu-icml2020.pdf)
+
+## IJCV:
+* [pal-v2 2020]Handwritten Mathematical Expression Recognition via Paired Adversarial Learning[[paper]](https://link.springer.com/article/10.1007/s11263-020-01291-5)
+
 ## Pattern Recognition:
 * [WAP 2017]Watch, attend and parse: An end-to-end neural network based approach to handwritten mathematical expression recognition[[paper]](https://www.sciencedirect.com/science/article/pii/S0031320317302376)
 
- 
+## ICFHR:
+* [WS-WAP 2020]Improvement of End-to-End Offline Handwritten Mathematical Expression Recognition by Weakly Supervised Learning[[paper]](https://ieeexplore.ieee.org/abstract/document/9257749)
+* [2020]Improving attention-based handwritten mathematical expression recognition with scale augmentation and drop attention[[paper]](https://ieeexplore.ieee.org/abstract/document/9257765)
+
+## ICDAR:
+* [MAN 2019]Multi-modal attention network for handwritten mathematical expression recognition[[paper]](https://ieeexplore.ieee.org/document/8978103)
+
+## CVPRW:
+* [DLA 2020]Recognizing handwritten mathematical expressions via paired dual loss attention network and printed mathematical expressions[[paper]](https://ieeexplore.ieee.org/document/9150937)
+
+## AAAI:
+* [ABM 2022]Handwritten Mathematical Expression Recognition via Attention Aggregation Based Bi-directional Mutual Learning[[paper]](https://arxiv.org/abs/2112.03603)
+
+## IEEE:
+* [TAP 2018]Track, Attend, and Parse (TAP): An End-to-End Framework for Online Handwritten Mathematical Expression Recognition[[paper]](https://ieeexplore.ieee.org/document/8373726)
+* [SRD 2020]SRD: A Tree Structure Based Decoder for Online Handwritten Mathematical Expression Recognition[[paper]](https://ieeexplore.ieee.org/document/9147045)
+
+## Lecture Notes in Computer Science:
+* [2021]An Encoder-Decoder Approach to Handwritten Mathematical Expression Recognition with Multi-head Attention and Stacked Decoder[[paper]](https://link.springer.com/content/pdf/10.1007/978-3-030-86331-9_39.pdf)
