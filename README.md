@@ -39,7 +39,18 @@
 *《Improving Attention-Based Handwritten Mathematical Expression Recognition with Scale Augmentation and Drop Attention》[[paper]](https://ieeexplore.ieee.org/abstract/document/9257765)
 
 
+
+
 # Papers
-===
 ## arXiv:
-* [WYGIWYS arVix2016]What you get is what you  see: A visual markup decompiler[[paper]](https://arxiv.org/abs/1609.04938v1)
+* [WYGIWYS 2016]What you get is what you  see: A visual markup decompiler[[paper]](https://arxiv.org/abs/1609.04938v1)
+
+## ECCV:
+* [CAN 2022]When Counting Meets HMER: CountingAware Network for Handwritten Mathematical Expression Recognition[[paper]](https://arxiv.org/abs/2207.11463)
+* [CoMER 2022]CoMER: Modeling Coverage for Transformer-based Handwritten Mathematical Expression Recognition[[paper]](https://arxiv.org/abs/2207.04410#:~:text=CoMER%3A%20Modeling%20Coverage%20for%20Transformer-based%20Handwritten%20Mathematical%20Expression,made%20significant%20advances%20in%20recognizing%20handwritten%20mathematical%20expressions.)
+## ICPR:
+* [DWAP 2018]An end-to-end  neural network based approach to handwritten mathematical expression recognition[[paper]](https://ieeexplore.ieee.org/document/8546031)
+## Pattern Recognition:
+* [WAP 2017]Watch, attend and parse: An end-to-end neural network based approach to handwritten mathematical expression recognition[[paper]](https://www.sciencedirect.com/science/article/pii/S0031320317302376)
+
+ 
