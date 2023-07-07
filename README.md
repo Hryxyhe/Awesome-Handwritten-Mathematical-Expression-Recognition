@@ -40,5 +40,6 @@
 
 
 # Papers
+===
 ## arXiv:
-  *[WYGIWYS arVix2016]What you get is what you  see: A visual markup decompiler[[paper]](https://arxiv.org/abs/1609.04938v1)
+* [WYGIWYS arVix2016]What you get is what you  see: A visual markup decompiler[[paper]](https://arxiv.org/abs/1609.04938v1)
