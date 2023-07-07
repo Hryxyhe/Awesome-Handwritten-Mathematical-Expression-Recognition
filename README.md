@@ -6,6 +6,11 @@ A-learning-log-about-Handwritten-Mathematical-Expression-Recognition
 ## arXiv:
 * [WYGIWYS 2016]What you get is what you  see: A visual markup decompiler[[paper]](https://arxiv.org/abs/1609.04938v1)
 * [BTTR 2021]Handwritten mathematical expression recognition with bidirectionally trained transformer[[paper]](https://arxiv.org/abs/2105.02412)
+* [2023]Spatial Attention and Syntax Rule Enhanced Tree Decoder for Offine Handwritten Mathematical Expression Recognition[[paper]](https://arxiv.org/abs/2303.07077)
+* [2022]Offline Handwritten Mathematical Recognition using Adversarial Learning and Transformers[[paper]](https://arxiv.org/abs/2208.09662)
+* [2021]Global Context for improving recognition of Online Handwritten Mathematical Expressions[[paper]](https://arxiv.org/abs/2105.10156)
+* [2020]Recognizing Handwritten Mathematical Expressions as LaTex Sequences Using a Multiscale Robust Neural Network[[paper]](Recognizing Handwritten Mathematical Expressions as LaTex Sequences Using a Multiscale Robust Neural Network)
+* [2019]Offline handwritten mathematical symbol recognition utilising deep learning[[paper]](https://arxiv.org/abs/1910.07395)
 
 ## CVPR:
 * [SAN 2022] Syntax-aware network for handwritten mathematical expression recognition[[paper]](https://ieeexplore.ieee.org/document/9879653)
@@ -25,6 +30,7 @@ A-learning-log-about-Handwritten-Mathematical-Expression-Recognition
 
 ## Pattern Recognition:
 * [WAP 2017]Watch, attend and parse: An end-to-end neural network based approach to handwritten mathematical expression recognition[[paper]](https://www.sciencedirect.com/science/article/pii/S0031320317302376)
+* [2021]Stroke Constrained Attention Network for Online Handwritten Mathematical Expression Recognition[[paper]](Stroke Constrained Attention Network for Online Handwritten Mathematical Expression Recognition)
 
 ## ICFHR:
 * [WS-WAP 2020]Improvement of End-to-End Offline Handwritten Mathematical Expression Recognition by Weakly Supervised Learning[[paper]](https://ieeexplore.ieee.org/abstract/document/9257749)
@@ -38,6 +44,7 @@ A-learning-log-about-Handwritten-Mathematical-Expression-Recognition
 
 ## AAAI:
 * [ABM 2022]Handwritten Mathematical Expression Recognition via Attention Aggregation Based Bi-directional Mutual Learning[[paper]](https://arxiv.org/abs/2112.03603)
+* [2022]Handwritten Mathematical Expression Recognition via Attention Aggregation based Bi-directional Mutual Learning[[paper]](https://arxiv.org/abs/2112.03603)
 
 ## IEEE:
 * [TAP 2018]Track, Attend, and Parse (TAP): An End-to-End Framework for Online Handwritten Mathematical Expression Recognition[[paper]](https://ieeexplore.ieee.org/document/8373726)
