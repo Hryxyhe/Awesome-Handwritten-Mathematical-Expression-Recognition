@@ -37,3 +37,6 @@
 
 ## paper6 针对数据： scale augmentation & drop attention
 *《Improving Attention-Based Handwritten Mathematical Expression Recognition with Scale Augmentation and Drop Attention》[[paper]](https://ieeexplore.ieee.org/abstract/document/9257765)
+
+
+#Papers
