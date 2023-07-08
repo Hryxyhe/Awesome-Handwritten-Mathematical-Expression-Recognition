@@ -25,7 +25,7 @@ A-learning-log-about-Handwritten-Mathematical-Expression-Recognition
 * [2022字符串解码器]Structural String Decoder for Handwritten Mathematical Expression Recognition[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9956105)
 * [2018基于笔画的后向注意力]Stroke Based Posterior Attention for Online Handwritten Mathematical Expression Recognition[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9412790)
 * [2020递归识别]Recursive Recognition of Offline Handwritten Mathematical Expressions[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9413076)
-* [2018ConvMath卷积序列网络]ConvMath: A Convolutional Sequence Network for Mathematical Expression Recognition(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9412913)
+* [2018ConvMath卷积序列网络]ConvMath: A Convolutional Sequence Network for Mathematical Expression Recognition[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9412913)
 * [2014RNN手写数学符号分类]Offline Features for Classifying Handwritten Math Symbols with Recurrent Neural Networks[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6977220)
 * [2012]Baseline extraction-driven Parsing of handwritten mathematical expressions[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6460138)
 * [2008support for matrices]Online Recognition of Handwritten Mathematical Expressions with Support for Matrices[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4761825)
