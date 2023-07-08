@@ -5,22 +5,39 @@ A-learning-log-about-Handwritten-Mathematical-Expression-Recognition
 # Papers
 ## arXiv:
 * [WYGIWYS 2016]What you get is what you  see: A visual markup decompiler[[paper]](https://arxiv.org/abs/1609.04938v1)
-* [BTTR 2021]Handwritten mathematical expression recognition with bidirectionally trained transformer[[paper]](https://arxiv.org/abs/2105.02412)
-* [2023]Spatial Attention and Syntax Rule Enhanced Tree Decoder for Offine Handwritten Mathematical Expression Recognition[[paper]](https://arxiv.org/abs/2303.07077)
-* [2022]Offline Handwritten Mathematical Recognition using Adversarial Learning and Transformers[[paper]](https://arxiv.org/abs/2208.09662)
-* [2021]Global Context for improving recognition of Online Handwritten Mathematical Expressions[[paper]](https://arxiv.org/abs/2105.10156)
-* [2020]Recognizing Handwritten Mathematical Expressions as LaTex Sequences Using a Multiscale Robust Neural Network[[paper]](https://arxiv.org/abs/2003.00817)
 * [2019]Offline handwritten mathematical symbol recognition utilising deep learning[[paper]](https://arxiv.org/abs/1910.07395)
+* [2019]Robust Encoder-Decoder Learning Framework towards Offline Handwritten Mathematical Expression Recognition Based on Multi-Scale Deep Neural Network[[paper]](https://arxiv.org/abs/1902.05376)
+* [2019]Pattern Generation Strategies for Improving Recognition of Handwritten Mathematical Expressions[[paper]](https://arxiv.org/abs/1901.06763)
+* [2017]A GRU-based Encoder-Decoder Approach with Attention for Online Handwritten Mathematical Expression Recognition[[paper]](https://arxiv.org/abs/1712.03991)
 
 ## CVPR:
 * [SAN 2022] Syntax-aware network for handwritten mathematical expression recognition[[paper]](https://ieeexplore.ieee.org/document/9879653)
-
+   
 ## ECCV:
 * [CAN 2022]When Counting Meets HMER: CountingAware Network for Handwritten Mathematical Expression Recognition[[paper]](https://arxiv.org/abs/2207.11463)
 * [CoMER 2022]CoMER: Modeling Coverage for Transformer-based Handwritten Mathematical Expression Recognition[[paper]](https://arxiv.org/abs/2207.04410#:~:text=CoMER%3A%20Modeling%20Coverage%20for%20Transformer-based%20Handwritten%20Mathematical%20Expression,made%20significant%20advances%20in%20recognizing%20handwritten%20mathematical%20expressions.)
+* [2022]The Survey on Handwritten Mathematical Expressions Recognition[[paper]](https://link.springer.com/content/pdf/10.1007/978-981-16-4284-5_12.pdf)
+* [2022]CNN-Based Handwritten Mathematical Symbol Recognition Model[[paper]](https://www.researchgate.net/publication/355028568_A_CNN_based_Handwritten_Numeral_Recognition_Model_for_Four_Arithmetic_Operations)
 
 ## ICPR:
 * [DWAP 2018]An end-to-end  neural network based approach to handwritten mathematical expression recognition[[paper]](https://ieeexplore.ieee.org/document/8546031)
+* [2022对比学习]Primitive Contrastive Learning for Handwritten Mathematical Expression Recognition[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9956214)
+* [2022字符串解码器]Structural String Decoder for Handwritten Mathematical Expression Recognition[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9956105)
+* [2018基于笔画的后向注意力]Stroke Based Posterior Attention for Online Handwritten Mathematical Expression Recognition[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9412790)
+* [2020递归识别]Recursive Recognition of Offline Handwritten Mathematical Expressions[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9413076)
+* [2018ConvMath卷积序列网络]ConvMath: A Convolutional Sequence Network for Mathematical Expression Recognition(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9412913)
+* [2014RNN手写数学符号分类]Offline Features for Classifying Handwritten Math Symbols with Recurrent Neural Networks[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6977220)
+* [2012]Baseline extraction-driven Parsing of handwritten mathematical expressions[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6460138)
+* [2008support for matrices]Online Recognition of Handwritten Mathematical Expressions with Support for Matrices[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4761825)
+
+## ICPRAI:
+* [2022Residual Attention]An Encoder-Decoder Approach to Offline Handwritten Mathematical Expression Recognition with Residual Attention[[PAPER]](https://link.springer.com/content/pdf/10.1007/978-3-031-09037-0_28.pdf)
+* [2020 A Survey]Handwritten Mathematical Expression Recognition: A Survey[[paper]](https://link.springer.com/content/pdf/10.1007/978-3-030-59830-3_5.pdf)
+* [2020]Application of Deep Learning in Handwritten Mathematical Expressions Recognition[[paper]](https://link.springer.com/content/pdf/10.1007/978-3-030-59830-3_12.pdf)
+
+## PRCV:
+* [2022基于GCAttention的编码器和双向相互学习变换器]Handwritten Mathematical Expression Recognition via GCAttention-Based Encoder and Bidirectional Mutual Learning Transformer[[paper]](https://www.researchgate.net/publication/364763161_Handwritten_Mathematical_Expression_Recognition_via_GCAttention-Based_Encoder_and_Bidirectional_Mutual_Learning_Transformer)
+* [2022语义感知的非局部网络]Semantic-Aware Non-local Network for Handwritten Mathematical Expression Recognition[[paper]](https://link.springer.com/content/pdf/10.1007/978-3-031-18913-5_28.pdf?pdf=inline%20link)
 
 ## ICML:
 * [DWAP-TD 2020]A Tree-Structured Decoder for Image-to-Markup Generation[[paper]](http://staff.ustc.edu.cn/~jundu/Publications/publications/jianshu-icml2020.pdf)
@@ -31,28 +48,70 @@ A-learning-log-about-Handwritten-Mathematical-Expression-Recognition
 ## Pattern Recognition:
 * [WAP 2017]Watch, attend and parse: An end-to-end neural network based approach to handwritten mathematical expression recognition[[paper]](https://www.sciencedirect.com/science/article/pii/S0031320317302376)
 * [2021]Stroke Constrained Attention Network for Online Handwritten Mathematical Expression Recognition[[paper]](Stroke Constrained Attention Network for Online Handwritten Mathematical Expression Recognition)
+* [2015贝叶斯模型]A Bayesian model for recognizing handwritten mathematical expressions[[paper]](A Bayesian model for recognizing handwritten mathematical expressions)
+* [2022基于树的数据增强和相互学习]Tree-based data augmentation and mutual learning for offline handwritten mathematical expression recognition(https://www.sciencedirect.com/science/article/pii/S0031320322003910)
+* [2009结构分析中的高效搜索策略]Efficient search strategy in structural analysis for handwritten mathematical expression recognition[[paper]](https://www.sciencedirect.com/science/article/pii/S0031320308004421)
+* [2015基于GT匹配]Matching based ground-truth annotation for online handwritten mathematical expressions(https://www.sciencedirect.com/science/article/pii/S0031320314003768)
+* [2000结构分析的有效句法方法]An efficient syntactic approach to structural analysis of on-line handwritten mathematical expressions(https://www.sciencedirect.com/science/article/pii/S0031320399000679)
+* [2022句法数据生成]Syntactic data generation for handwritten mathematical expression recognition(https://www.sciencedirect.com/science/article/pii/S0167865521004293?via%3Dihub)
+* [2022基于树的数据增强和相互学习]Tree-based data augmentation and mutual learning for offline handwritten mathematical expression recognition[[paper]](https://www.sciencedirect.com/science/article/pii/S0031320322003910?via%3Dihub))
+* [2020]CNN based spatial classification features for clustering offline handwritten mathematical expressions[[paper]](https://www.sciencedirect.com/science/article/pii/S0167865519303782)
 
 ## ICFHR:
 * [WS-WAP 2020]Improvement of End-to-End Offline Handwritten Mathematical Expression Recognition by Weakly Supervised Learning[[paper]](https://ieeexplore.ieee.org/abstract/document/9257749)
-* [2020]Improving attention-based handwritten mathematical expression recognition with scale augmentation and drop attention[[paper]](https://ieeexplore.ieee.org/abstract/document/9257765)
+* [2020scale augmentation&drop attention]Improving attention-based handwritten mathematical expression recognition with scale augmentation and drop attention[[paper]](https://ieeexplore.ieee.org/abstract/document/9257765)
+* [2023符号位置感知网络]Symbol Location-Aware Network for Improving Handwritten Mathematical Expression Recognition[[paper]](https://dl.acm.org/doi/10.1145/3591106.3592259)
+* [2023空间注意和句法规则增强的树形解码器]Spatial Attention and Syntax Rule Enhanced Tree Decoder for Offine Handwritten Mathematical Expression Recognition[[paper]](https://arxiv.org/abs/2303.07077)
+* [2022基于合成数据生成和乱序多轮训练]Synthetic Data Generation and Shuffled Multi-Round Training Based Offline Handwritten Mathematical Expression Recognition[[paper]](https://link.springer.com/article/10.1007/s11390-021-0722-4)
+* [2022正则化门控递归单元]R-GRU: Regularized gated recurrent unit for handwritten mathematical expression recognition[[paper]](https://link.springer.com/article/10.1007/s11042-022-12889-x)
+* [2022结合CNN和transfoemer作为编码器]Combining CNN and Transformer as Encoder to Improve End-to-End Handwritten Mathematical Expression Recognition Accuracy[[paper]](https://link.springer.com/content/pdf/10.1007/978-3-031-21648-0_13.pdf)
+* [2020]Online Handwritten Mathematical Symbol Segmentation and Recognition with Bidirectional Context[[paper]](https://ieeexplore.ieee.org/document/9257789)
+* [ICFHR 2020 Competition]ICFHR 2020 Competition on Offline Recognition and Spotting of Handwritten Mathematical Expressions - OffRaSHME[[paper]](https://ieeexplore.ieee.org/abstract/document/9257745)
+
+## ICCPR
+* [2022多尺度特征集成]Multi-Scale Features Integration for Handwritten Mathematical Expression Recognition[[paper]](https://dl.acm.org/doi/10.1145/3581807.3581844)
+
+## CoRR:
+* [2022句法感知网络]Syntax-Aware Network for Handwritten Mathematical Expression Recognition[[paper]](https://arxiv.org/abs/2203.01601)
+* [2022]Offline Handwritten Mathematical Recognition using Adversarial Learning and Transformers[[paper]](https://arxiv.org/abs/2208.09662)
+* [2020]Stroke Constrained Attention Network for Online Handwritten Mathematical Expression Recognition[[paper]](https://arxiv.org/abs/2002.08670#:~:text=Stroke%20Constrained%20Attention%20Network%20for%20Online%20Handwritten%20Mathematical,encoder-decoder%20based%20online%20handwritten%20mathematical%20expression%20recognition%20%28HMER%29.)
+* [2020]Recognizing Handwritten Mathematical Expressions as LaTex Sequences Using a Multiscale Robust Neural Network[[paper]]
 
 ## ICDAR:
 * [MAN 2019]Multi-modal attention network for handwritten mathematical expression recognition[[paper]](https://ieeexplore.ieee.org/document/8978103)
+* [2021]An Encoder-Decoder Approach to Handwritten Mathematical Expression Recognition with Multi-head Attention and Stacked Decoder[[paper]](https://link.springer.com/content/pdf/10.1007/978-3-030-86331-9_39.pdf)
+* [2021]Global Context for improving recognition of Online Handwritten Mathematical Expressions[[paper]](https://arxiv.org/abs/2105.10156)
+* [2021Relation-Based]Relation-Based Representation for Handwritten Mathematical Expression Recognition[[paper]](https://link.springer.com/content/pdf/10.1007/978-3-030-86198-8_1.pdf)
+* [MRD2021 Memory Relation]MRD: A Memory Relation Decoder for Online Handwritten Mathematical Expression Recognition[[paper]](http://staff.ustc.edu.cn/~jundu/Publications/publications/Wang2021_Chapter_MRDAMemoryRelationDecoderForOn.pdf)
+* [BTTR 2021]Handwritten mathematical expression recognition with bidirectionally trained transformer[[paper]](https://arxiv.org/abs/2105.02412)
 
 ## CVPRW:
 * [DLA 2020]Recognizing handwritten mathematical expressions via paired dual loss attention network and printed mathematical expressions[[paper]](https://ieeexplore.ieee.org/document/9150937)
 
 ## AAAI:
-* [ABM 2022]Handwritten Mathematical Expression Recognition via Attention Aggregation Based Bi-directional Mutual Learning[[paper]](https://arxiv.org/abs/2112.03603)
+* [ABM 2022 基于注意力聚集的双向相互学习]Handwritten Mathematical Expression Recognition via Attention Aggregation Based Bi-directional Mutual Learning[[paper]](https://arxiv.org/abs/2112.03603)
 * [2022]Handwritten Mathematical Expression Recognition via Attention Aggregation based Bi-directional Mutual Learning[[paper]](https://arxiv.org/abs/2112.03603)
+* [2021Graph-to-Graph]Graph-to-Graph: Towards Accurate and Interpretable Online Handwritten Mathematical Expression Recognition[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16399)
 
 ## IEEE:
 * [TAP 2018]Track, Attend, and Parse (TAP): An End-to-End Framework for Online Handwritten Mathematical Expression Recognition[[paper]](https://ieeexplore.ieee.org/document/8373726)
 * [SRD 2020]SRD: A Tree Structure Based Decoder for Online Handwritten Mathematical Expression Recognition[[paper]](https://ieeexplore.ieee.org/document/9147045)
 * [2020]Stroke extraction for offline handwritten mathematical expression recognition[[paper]](https://arxiv.org/abs/1905.06749)
+* [2021]Online Handwritten Mathematical Expression Recognition and Applications: A Survey[[paper]](https://ieeexplore.ieee.org/document/9367185)
 
-## Lecture Notes in Computer Science:
-* [2021]An Encoder-Decoder Approach to Handwritten Mathematical Expression Recognition with Multi-head Attention and Stacked Decoder[[paper]](https://link.springer.com/content/pdf/10.1007/978-3-030-86331-9_39.pdf)
+## ACAI:
+* [2021Self-Attention]Handwritten Mathematical Expression Recognition with Self-Attention[[paper]](https://dl.acm.org/doi/10.1145/3508546.3508615)
+
+## ACOMP:
+* [2021An approach on data augmentation]Handwritten Mathematical Expression Recognition: An approach on data augmentation[[paper]](https://ieeexplore.ieee.org/document/9668219)
+* [2021时间分类约束]Temporal Classification Constraint for Improving Handwritten Mathematical Expression Recognition[[paper]](
+
+## ACPR:
+* [2021图推理网络]Offline Handwritten Mathematical Expression Recognition via Graph Reasoning Network[[paper]](https://link.springer.com/content/pdf/10.1007/978-3-031-02375-0_2.pdf)
+* [2021]Learning Symbol Relation Tree for Online Handwritten Mathematical Expression Recognition[[paper]](https://arxiv.org/abs/2105.06084#:~:text=This%20paper%20proposes%20a%20method%20for%20recognizing%20online,and%20spatial%20relations%20between%20symbols%20using%20global%20context.)
+
+## SMC:
+* [2021]A New Approach to Data Annotation Automation for Online Handwritten Mathematical Expression Recognition based on Recurrent Neural Networks[[paper]](https://www.researchgate.net/publication/357642242_A_New_Approach_to_Data_Annotation_Automation_for_Online_Handwritten_Mathematical_Expression_Recognition_based_on_Recurrent_Neural_Networks)
 
 
 # Notes
