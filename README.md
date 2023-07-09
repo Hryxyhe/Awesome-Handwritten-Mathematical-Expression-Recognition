@@ -96,8 +96,7 @@ A-learning-log-about-Handwritten-Mathematical-Expression-Recognition
 ## online recognizing
 * [2021]Global Context for improving recognition of Online Handwritten Mathematical Expressions[[paper]](https://arxiv.org/abs/2105.10156)
 * [2021]Stroke Constrained Attention Network for Online Handwritten Mathematical Expression Recognition[[paper]](https://arxiv.org/abs/2002.08670)
-* [2021 Graph-to-Graph]Graph-to-Graph: Towards Accurate and Interpretable Online Handwritten Mathematical Expression Recognition[[paper]]
-(https://ojs.aaai.org/index.php/AAAI/article/view/16399)
+* [2021 Graph-to-Graph]Graph-to-Graph: Towards Accurate and Interpretable Online Handwritten Mathematical Expression Recognition[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16399)
 * [2021]Learning Symbol Relation Tree for Online Handwritten Mathematical Expression Recognition[[paper]](https://arxiv.org/abs/2105.06084#:~:text=This%20paper%20proposes%20a%20method%20for%20recognizing%20online,and%20spatial%20relations%20between%20symbols%20using%20global%20context.)
 * [2021]A New Approach to Data Annotation Automation for Online Handwritten Mathematical Expression Recognition based on Recurrent Neural Networks[[paper]](https://www.researchgate.net/publication/357642242_A_New_Approach_to_Data_Annotation_Automation_for_Online_Handwritten_Mathematical_Expression_Recognition_based_on_Recurrent_Neural_Networks)
 * [2021 MRD Memory Relation]MRD: A Memory Relation Decoder for Online Handwritten Mathematical Expression Recognition[[paper]](http://staff.ustc.edu.cn/~jundu/Publications/publications/Wang2021_Chapter_MRDAMemoryRelationDecoderForOn.pdf)
